@@ -5,13 +5,13 @@
 ### Tinkercad Link - IOT - Task 2
 https://www.tinkercad.com/things/fCKIvsrWkGM?sharecode=xcoOFVMJM0BLbwUjIJvNCnpD6uwHPWZdG4uHolZF8JU
 
-## Arduine Transmit code 
+## Arduino Transmit code 
 
 ![‏‏Arduine Transmit code ](https://github.com/H16Bw/Internet-of-Things-Department-Task-2/assets/139852537/82e543af-307d-42d0-9efc-b74e572511b5)
 
    
 
-## Arduine Receive code 
+## Arduino Receive code 
 
 
 ![Arduine Receive code ](https://github.com/H16Bw/Internet-of-Things-Department-Task-2/assets/139852537/cb33d084-cb6b-4d5f-af15-1aaa9072c2e5)
